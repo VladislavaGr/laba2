@@ -1,0 +1,3 @@
+[submodule "NewMath"]
+	path = NewMath
+	url = https://github.com/VladislavaGr/NewMath.git
